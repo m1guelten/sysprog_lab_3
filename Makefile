@@ -11,3 +11,4 @@ default:
 clean:
   $(MAKE) -C $(KERNELDIR) M=$(PWD) clean
   rm -f $(USER_PROG)
+  

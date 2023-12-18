@@ -29,6 +29,5 @@ int main() {
 
     // Закриття файлу
     close(fd);
-
     return EXIT_SUCCESS;
 }
